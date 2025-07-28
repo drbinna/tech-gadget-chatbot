@@ -55,7 +55,7 @@ tech-gadget-chatbot/
 ## 🧪 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/tech-gadget-chatbot.git
+git clone https://github.com/drbinna/tech-gadget-chatbot.git
 cd tech-gadget-chatbot
 pip install -r requirements.txt
 python app.py
